@@ -1,6 +1,4 @@
-Here's a more concise version of the **README.md** file for your game:
 
----
 
 # Color Confusion Challenge 🎮
 
